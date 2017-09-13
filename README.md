@@ -1,2 +1,7 @@
-# Paint-Brush
-A Paint Application that support drawing different shapes with different colors, resizing shapes, moving shapes, dynamic class loading for new shapes, undo, redo, save and load using XML and JSON files. 
+# Paint-Desktop-App
+A desktop Application to draw and color shapes.
+## Development
+* many mathematical calculations.
+* graphics manipulation to draw, resize and move shapes.
+* read and write as JSON and XML file.
+* Dynamic loading and other design patterns is used.
